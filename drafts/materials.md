@@ -1,6 +1,31 @@
-
-
 # 待整理
+## 新手會犯的錯誤
+1. 20160412 學校標籤不適用建築標示  
+	LeoWangWang & Supaplex  
+[https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)
+
+## 尚未歸類
+1. 程式測試與 mapper 巡查警告  
+	Giovanni Salinas & R0bst3r  
+	[https://www.openstreetmap.org/changeset/38449866](https://www.openstreetmap.org/changeset/38449866)
+	[https://www.openstreetmap.org/changeset/38449627](https://www.openstreetmap.org/changeset/38449627)
+1. 20160412 程式測試後自刪資料與 mapper 巡查互動  
+ Giovanni Salinas & R0bst3r  
+[https://www.openstreetmap.org/changeset/38491090](https://www.openstreetmap.org/changeset/38491090)
+1. 20160412 畫建築是勞力密集工作  
+Supaplex & Vintagejhan  
+[https://www.openstreetmap.org/changeset/38493472](https://www.openstreetmap.org/changeset/38493472)
+1. 20160410 maps.me 可以上傳資料後引入的新編輯者發問  
+[https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
+1. 20160406 mapper 驚呼 maps.me 新功能超方便  
+[https://www.openstreetmap.org/changeset/38348300](https://www.openstreetmap.org/changeset/38348300)
+1. 20160406 民眾與 mapper 的良性互動  
+ GARCH & Supaplex at 景美國中一帶  
+[https://www.openstreetmap.org/changeset/38336216](https://www.openstreetmap.org/changeset/38336216)
+1. Enditless  
+[https://osmtw.hackpad.com/eLp9PTXyXRn](https://osmtw.hackpad.com/eLp9PTXyXRn)
+1. 資料有誤時的糾正:石制風=>風制石  
+[https://www.openstreetmap.org/changeset/38422681](https://www.openstreetmap.org/changeset/38422681)
 1. OSMHydrant
 [https://www.osmhydrant.org/en/#zoom=11&lat=25.0355&lon=121.5699](https://www.osmhydrant.org/en/#zoom=11&lat=25.0355&lon=121.5699)
 1. OpenFireMap
@@ -23,6 +48,8 @@
 [https://osmtw.hackpad.com/re0xSIM0OEO](https://osmtw.hackpad.com/re0xSIM0OEO)
 1. NYC 建築物與地址匯入作業  
 [https://github.com/osmlab/nycbuildings/wiki](https://github.com/osmlab/nycbuildings/wiki)
+1. Latest OSM Changeset Discussions (7 days) - Taiwan
+[http://resultmaps.neis-one.org/osm-discussions?c=Taiwan#7/23.700/120.800](http://resultmaps.neis-one.org/osm-discussions?c=Taiwan#7/23.700/120.800)
 
 ---
 
