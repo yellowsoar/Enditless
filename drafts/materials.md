@@ -1,12 +1,46 @@
-# 待整理
+# 已歸類
 ## 新手會犯的錯誤
 1. 20160412 學校標籤不適用建築標示  
 	LeoWangWang & Supaplex  
 [https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)
 
-## 尚未歸類
+## 這個可以畫嗎?
+1. 20160410 通往地下停車場的道路  
+chliju & Supaplex  
+[https://www.openstreetmap.org/changeset/38453503](https://www.openstreetmap.org/changeset/38453503)
+
+## 建築物內的 POI
+1. 20160410 南港車站B棟的旅館
+[https://www.openstreetmap.org/changeset/38452593](https://www.openstreetmap.org/changeset/38452593)
+
+## maps.me 可以新增 POI 後引發的編輯潮
+### 地方圖資更新
+1. 淡水祖師廟戲台玉皇壇拆除  
+20160218新聞，20160408修正圖資  
+[https://www.openstreetmap.org/changeset/38411018](https://www.openstreetmap.org/changeset/38411018)
+1. 漁港與夜市  
+[https://www.openstreetmap.org/changeset/38403398](https://www.openstreetmap.org/changeset/38403398)
+
+### 重複標註
+1. [https://www.openstreetmap.org/changeset/38451386](https://www.openstreetmap.org/changeset/38451386)
+1. [https://www.openstreetmap.org/changeset/38354608](https://www.openstreetmap.org/changeset/38354608)
+
+### 誤刪死巷
+1. [https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
+
+### 待查核校驗內容
+1.  
+[https://www.openstreetmap.org/changeset/38421224](https://www.openstreetmap.org/changeset/38421224)
+
+---
+
+# 尚未歸類
+1. 20160410
+1. 需討論、表決或達成共識之議題  
+[https://osmtw.hackpad.com/NKApXi6KqWx](https://osmtw.hackpad.com/NKApXi6KqWx)
 1. 程式測試與 mapper 巡查警告  
 	Giovanni Salinas & R0bst3r  
+	[https://www.openstreetmap.org/changeset/38377930](https://www.openstreetmap.org/changeset/38377930)
 	[https://www.openstreetmap.org/changeset/38449866](https://www.openstreetmap.org/changeset/38449866)
 	[https://www.openstreetmap.org/changeset/38449627](https://www.openstreetmap.org/changeset/38449627)
 1. 20160412 程式測試後自刪資料與 mapper 巡查互動  
@@ -15,8 +49,6 @@
 1. 20160412 畫建築是勞力密集工作  
 Supaplex & Vintagejhan  
 [https://www.openstreetmap.org/changeset/38493472](https://www.openstreetmap.org/changeset/38493472)
-1. 20160410 maps.me 可以上傳資料後引入的新編輯者發問  
-[https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
 1. 20160406 mapper 驚呼 maps.me 新功能超方便  
 [https://www.openstreetmap.org/changeset/38348300](https://www.openstreetmap.org/changeset/38348300)
 1. 20160406 民眾與 mapper 的良性互動  
@@ -520,3 +552,9 @@ ISBN:9789860117424
 [http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010200006151](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010200006151)
 1. 博客來  
 [http://www.books.com.tw/products/0010398264](http://www.books.com.tw/products/0010398264)
+
+---
+
+# 不確定是否要收錄
+1. 住宅大樓都更  
+[https://www.openstreetmap.org/changeset/38475114](https://www.openstreetmap.org/changeset/38475114)
