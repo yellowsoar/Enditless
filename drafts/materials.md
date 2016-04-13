@@ -35,7 +35,8 @@ chliju & Supaplex
 ---
 
 # 尚未歸類
-1. 20160410
+1. mapbox 透過去識別化後的定位資料協助決定要更新哪些區域的
+[https://www.mapbox.com/blog/satellite-imagery-updates-telemetry/](https://www.mapbox.com/blog/satellite-imagery-updates-telemetry/)
 1. 需討論、表決或達成共識之議題  
 [https://osmtw.hackpad.com/NKApXi6KqWx](https://osmtw.hackpad.com/NKApXi6KqWx)
 1. 程式測試與 mapper 巡查警告  
