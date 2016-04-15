@@ -1,6 +1,6 @@
 # 尚未歸類
-1. NGIS 國土資訊平台  
-[http://tmap.geospatial.org.tw](http://tmap.geospatial.org.tw)
+1. 中文名稱標籤方式  
+[https://lists.openstreetmap.org/pipermail/talk-tw/2016-April/001283.html](https://lists.openstreetmap.org/pipermail/talk-tw/2016-April/001283.html)
 1. 開放政府資料的基本原則與相關政策議題  
 李治安、林誠夏、莊庭瑞  
 公共治理季刊, 第二卷 第一期 103年3月, P.65-76  
@@ -59,6 +59,18 @@ GARCH & Supaplex at 景美國中一帶
 [https://github.com/osmlab/nycbuildings/wiki](https://github.com/osmlab/nycbuildings/wiki)
 1. Latest OSM Changeset Discussions (7 days) - Taiwan
 [http://resultmaps.neis-one.org/osm-discussions?c=Taiwan#7/23.700/120.800](http://resultmaps.neis-one.org/osm-discussions?c=Taiwan#7/23.700/120.800)
+
+---
+
+# 待挖掘
+1. FORMOSAT-2 衛星影像應用研習營 by 國家太空中心  
+[https://www.nspo.narl.org.tw/sseo/2016/competition/download/2015.pdf](https://www.nspo.narl.org.tw/sseo/2016/competition/download/2015.pdf)
+1. 國立中央大學太空及遙測研究中心開放資料服務平台  
+[http://140.115.110.11/index_WMTS.php](http://140.115.110.11/index_WMTS.php)
+1. NGIS 國土資訊網  
+[http://ngis.nat.gov.tw](http://ngis.nat.gov.tw)
+1. NGIS 國土資訊平台  
+[http://tmap.geospatial.org.tw](http://tmap.geospatial.org.tw)
 
 ---
 
