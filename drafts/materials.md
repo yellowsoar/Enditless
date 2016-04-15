@@ -1,39 +1,3 @@
-# 已歸類
-## 新手會犯的錯誤
-1. 20160412 學校標籤不適用建築標示  
-	LeoWangWang & Supaplex  
-[https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)
-
-## 這個可以畫嗎?
-1. 20160410 通往地下停車場的道路  
-chliju & Supaplex  
-[https://www.openstreetmap.org/changeset/38453503](https://www.openstreetmap.org/changeset/38453503)
-
-## 建築物內的 POI
-1. 20160410 南港車站B棟的旅館
-[https://www.openstreetmap.org/changeset/38452593](https://www.openstreetmap.org/changeset/38452593)
-
-## maps.me 可以新增 POI 後引發的編輯潮
-### 地方圖資更新
-1. 淡水祖師廟戲台玉皇壇拆除  
-20160218新聞，20160408修正圖資  
-[https://www.openstreetmap.org/changeset/38411018](https://www.openstreetmap.org/changeset/38411018)
-1. 漁港與夜市  
-[https://www.openstreetmap.org/changeset/38403398](https://www.openstreetmap.org/changeset/38403398)
-
-### 重複標註
-1. [https://www.openstreetmap.org/changeset/38451386](https://www.openstreetmap.org/changeset/38451386)
-1. [https://www.openstreetmap.org/changeset/38354608](https://www.openstreetmap.org/changeset/38354608)
-
-### 誤刪死巷
-1. [https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
-
-### 待查核校驗內容
-1.  
-[https://www.openstreetmap.org/changeset/38421224](https://www.openstreetmap.org/changeset/38421224)
-
----
-
 # 尚未歸類
 1. Locus map (android)  
 [http://www.locusmap.eu](http://www.locusmap.eu)  
@@ -45,12 +9,12 @@ chliju & Supaplex
 1. 需討論、表決或達成共識之議題  
 [https://osmtw.hackpad.com/NKApXi6KqWx](https://osmtw.hackpad.com/NKApXi6KqWx)
 1. 程式測試與 mapper 巡查警告  
-	Giovanni Salinas & R0bst3r  
-	[https://www.openstreetmap.org/changeset/38377930](https://www.openstreetmap.org/changeset/38377930)
-	[https://www.openstreetmap.org/changeset/38449866](https://www.openstreetmap.org/changeset/38449866)
-	[https://www.openstreetmap.org/changeset/38449627](https://www.openstreetmap.org/changeset/38449627)
+Giovanni Salinas & R0bst3r  
+[https://www.openstreetmap.org/changeset/38377930](https://www.openstreetmap.org/changeset/38377930)
+[https://www.openstreetmap.org/changeset/38449866](https://www.openstreetmap.org/changeset/38449866)
+[https://www.openstreetmap.org/changeset/38449627](https://www.openstreetmap.org/changeset/38449627)
 1. 20160412 程式測試後自刪資料與 mapper 巡查互動  
- Giovanni Salinas & R0bst3r  
+Giovanni Salinas & R0bst3r  
 [https://www.openstreetmap.org/changeset/38491090](https://www.openstreetmap.org/changeset/38491090)
 1. 20160412 畫建築是勞力密集工作  
 Supaplex & Vintagejhan  
@@ -58,7 +22,7 @@ Supaplex & Vintagejhan
 1. 20160406 mapper 驚呼 maps.me 新功能超方便  
 [https://www.openstreetmap.org/changeset/38348300](https://www.openstreetmap.org/changeset/38348300)
 1. 20160406 民眾與 mapper 的良性互動  
- GARCH & Supaplex at 景美國中一帶  
+GARCH & Supaplex at 景美國中一帶  
 [https://www.openstreetmap.org/changeset/38336216](https://www.openstreetmap.org/changeset/38336216)
 1. Enditless  
 [https://osmtw.hackpad.com/eLp9PTXyXRn](https://osmtw.hackpad.com/eLp9PTXyXRn)
@@ -101,13 +65,13 @@ FE Filter Encoding
 
 # 飲水地圖
 1. 教學  
- [https://docs.google.com/document/d/1by9-SqfJ6qvu0dGER4E63bKsvGp3LhoqK86XFHHM_JI/edit?pref=2&pli=1](https://docs.google.com/document/d/1by9-SqfJ6qvu0dGER4E63bKsvGp3LhoqK86XFHHM_JI/edit?pref=2&pli=1)
+[https://docs.google.com/document/d/1by9-SqfJ6qvu0dGER4E63bKsvGp3LhoqK86XFHHM_JI/edit?pref=2&pli=1](https://docs.google.com/document/d/1by9-SqfJ6qvu0dGER4E63bKsvGp3LhoqK86XFHHM_JI/edit?pref=2&pli=1)
 
 1. file formats
-  1. ESRI Shapefiles
-  1. Google Earth KML/KMZ, DXF, MIF
-  1. Geography Markup Language (GML)
-  1. GML Simple Features (GMLsf)
+1. ESRI Shapefiles
+1. Google Earth KML/KMZ, DXF, MIF
+1. Geography Markup Language (GML)
+1. GML Simple Features (GMLsf)
 
 http://www.iau-idf.fr/savoir-faire/nos-travaux/environnement/risques-naturels-et-technologiques/eu-sequana-2016.html
 
@@ -152,13 +116,13 @@ http://www.plurk.com/p/1ijob7
 1. 八八水災/莫拉克颱風災情地圖Google Map(新增救災電話/串連貼紙)
 http://linshibi.com/?p=644
 1. Google 我的地圖
-  1. 莫拉克颱風 重大災情地圖  
-  標示重大災情地區位置
-  https://www.google.com/maps/d/viewer?mid=ziSeW6KWlmdA.kl6u72hqFnJ4
-  1. 88風災 社區心靈陪伴計畫  
-  https://www.google.com/maps/d/viewer?mid=zR3gZNUy8Rq8.kJ9A_wOwpTNI
-  1. 莫拉克颱風台灣文化資源受災暨重建地圖  
-  https://www.google.com/maps/d/viewer?mid=zo-h8zpVtBAo.kCX5gWEDgsik
+1. 莫拉克颱風 重大災情地圖  
+標示重大災情地區位置
+https://www.google.com/maps/d/viewer?mid=ziSeW6KWlmdA.kl6u72hqFnJ4
+1. 88風災 社區心靈陪伴計畫  
+https://www.google.com/maps/d/viewer?mid=zR3gZNUy8Rq8.kJ9A_wOwpTNI
+1. 莫拉克颱風台灣文化資源受災暨重建地圖  
+https://www.google.com/maps/d/viewer?mid=zo-h8zpVtBAo.kCX5gWEDgsik
 
 # 正射
 1.
@@ -246,14 +210,14 @@ https://localwiki.org/taipeicommunity/
 
 ## 圖資取用
 1. Making maps from OpenStreetMap for Garmin devices  
- [http://www.mkgmap.org.uk](http://www.mkgmap.org.uk)
+[http://www.mkgmap.org.uk](http://www.mkgmap.org.uk)
 1. Roads to Rome
 [http://roadstorome.moovellab.com/](http://roadstorome.moovellab.com/)
 
 ## 外掛
 1. Wordpress : OSM  
- [https://wordpress.org/plugins/osm/](https://wordpress.org/plugins/osm/)
- [http://wp-osm-plugin.hanblog.net](http://wp-osm-plugin.hanblog.net)
+[https://wordpress.org/plugins/osm/](https://wordpress.org/plugins/osm/)
+[http://wp-osm-plugin.hanblog.net](http://wp-osm-plugin.hanblog.net)
 
 ## 非 OSM 地圖應用
 1. 高雄市政府經濟發展局-工業管線查詢系統
@@ -414,11 +378,11 @@ http://technews.tw/2014/02/25/emerging-openstreetmap-introduction-of-ui/
 
 ## 使用者
 1. 貢獻者(Contributor)
-  1. mapper
+1. mapper
 1. 中介者
-  1. App dev.
-  1. Web dev.
-  1. map maker
+1. App dev.
+1. Web dev.
+1. map maker
 1. 終端使用者(End User)
 
 ## Server
@@ -505,20 +469,20 @@ http://www.taipeibus.gov.taipei/NewsViews.aspx?status=2&Details=316
 # 記事
 ## Maps.me 將臺灣地區歸入中華人民共和國
 1. 臉書社團討論串
-	1. by 積丹尼  
-	[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028633020535500/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028633020535500/)
-	1. by 陳瑞霖  
-	[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028997780499024/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028997780499024/)
-	1. by 李昕迪  
-	[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1029169403815195/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1029169403815195/)
+1. by 積丹尼  
+[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028633020535500/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028633020535500/)
+1. by 陳瑞霖  
+[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028997780499024/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1028997780499024/)
+1. by 李昕迪  
+[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1029169403815195/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1029169403815195/)
 
 # 統計
 1. OpenStreetMap stats report  
 [http://www.openstreetmap.org/stats/data_stats.html](http://www.openstreetmap.org/stats/data_stats.html)  
 內容如下：
-	1. GPS 資料上傳量前五十名
-	1. 先前一段時間(日、周、月)有編輯的使用者人數統計
-	1. 先前一段時間(日、周、月)編輯量排名
+1. GPS 資料上傳量前五十名
+1. 先前一段時間(日、周、月)有編輯的使用者人數統計
+1. 先前一段時間(日、周、月)編輯量排名
 1. OSMstats by Pascal Neis  
 [http://osmstats.neis-one.org/](http://osmstats.neis-one.org/)
 1. OSM Wiki 統計分類  
@@ -558,6 +522,42 @@ ISBN:9789860117424
 [http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010200006151](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2010200006151)
 1. 博客來  
 [http://www.books.com.tw/products/0010398264](http://www.books.com.tw/products/0010398264)
+
+---
+
+# 已歸類
+## 新手會犯的錯誤
+1. 20160412 學校標籤不適用建築標示  
+	LeoWangWang & Supaplex  
+[https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)
+
+## 這個可以畫嗎?
+1. 20160410 通往地下停車場的道路  
+chliju & Supaplex  
+[https://www.openstreetmap.org/changeset/38453503](https://www.openstreetmap.org/changeset/38453503)
+
+## 建築物內的 POI
+1. 20160410 南港車站B棟的旅館
+[https://www.openstreetmap.org/changeset/38452593](https://www.openstreetmap.org/changeset/38452593)
+
+## maps.me 可以新增 POI 後引發的編輯潮
+### 地方圖資更新
+1. 淡水祖師廟戲台玉皇壇拆除  
+20160218新聞，20160408修正圖資  
+[https://www.openstreetmap.org/changeset/38411018](https://www.openstreetmap.org/changeset/38411018)
+1. 漁港與夜市  
+[https://www.openstreetmap.org/changeset/38403398](https://www.openstreetmap.org/changeset/38403398)
+
+### 重複標註
+1. [https://www.openstreetmap.org/changeset/38451386](https://www.openstreetmap.org/changeset/38451386)
+1. [https://www.openstreetmap.org/changeset/38354608](https://www.openstreetmap.org/changeset/38354608)
+
+### 誤刪死巷
+1. [https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
+
+### 待查核校驗內容
+1.  
+[https://www.openstreetmap.org/changeset/38421224](https://www.openstreetmap.org/changeset/38421224)
 
 ---
 
