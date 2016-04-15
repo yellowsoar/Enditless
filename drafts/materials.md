@@ -35,6 +35,11 @@ chliju & Supaplex
 ---
 
 # 尚未歸類
+1. Locus map (android)  
+[http://www.locusmap.eu](http://www.locusmap.eu)  
+[https://wiki.openstreetmap.org/wiki/Locus](https://wiki.openstreetmap.org/wiki/Locus)  
+![http://www.locusmap.eu/wp-content/themes/locus/images/logo.png](http://www.locusmap.eu/wp-content/themes/locus/images/logo.png)
+
 1. mapbox 透過去識別化後的定位資料協助決定要更新哪些區域的
 [https://www.mapbox.com/blog/satellite-imagery-updates-telemetry/](https://www.mapbox.com/blog/satellite-imagery-updates-telemetry/)
 1. 需討論、表決或達成共識之議題  
