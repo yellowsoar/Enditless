@@ -589,6 +589,8 @@ by 國家發展委員會
 [http://www.mocs.gov.tw/html/銓敘部政府資料開放盤點表.pdf](http://www.mocs.gov.tw/html/銓敘部政府資料開放盤點表.pdf)
 1. 交通部臺灣區國道高速公路局「交通資料庫」  
 [http://tisvcloud.freeway.gov.tw](http://tisvcloud.freeway.gov.tw)
+1. 法務部  
+[https://www.moj.gov.tw/lp.asp?ctNode=35949&CtUnit=12933&BaseDSD=7&mp=555](https://www.moj.gov.tw/lp.asp?ctNode=35949&CtUnit=12933&BaseDSD=7&mp=555)
 
 #### 地方政府
 1. 金門縣政府資料開放平台  
@@ -633,8 +635,6 @@ by 國家發展委員會
 [http://www.mofa.gov.tw/News_M_2.aspx?n=A30D6E978846B3C0&sms=BA727B25FD99C6CC](http://www.mofa.gov.tw/News_M_2.aspx?n=A30D6E978846B3C0&sms=BA727B25FD99C6CC)
 1. 勞動部勞動力發展署  
 [http://www.labor.gov.tw/home.jsp?pageno=201109290051](http://www.labor.gov.tw/home.jsp?pageno=201109290051)
-1. 法務部  
-[https://www.moj.gov.tw/lp.asp?ctNode=35949&CtUnit=12933&BaseDSD=7&mp=555](https://www.moj.gov.tw/lp.asp?ctNode=35949&CtUnit=12933&BaseDSD=7&mp=555)
 
 ### 民間組織
 1. sheethub
