@@ -1,4 +1,6 @@
 # 尚未歸類
+1. NGIS 國土資訊平台  
+[http://tmap.geospatial.org.tw](http://tmap.geospatial.org.tw)
 1. 開放政府資料的基本原則與相關政策議題  
 李治安、林誠夏、莊庭瑞  
 公共治理季刊, 第二卷 第一期 103年3月, P.65-76  
@@ -533,6 +535,9 @@ ISBN:9789860117424
 # 已歸類
 ## 開放資料
 ### 中華民國「資料開放」平台
+1. 財團法人台灣地理資訊中心 開放地圖搜尋下載  
+[http://www.tgic.org.tw/content/OpenMap.aspx](http://www.tgic.org.tw/content/OpenMap.aspx)
+
 #### 政府資料開放平臺
 by 國家發展委員會  
 [http://data.gov.tw](http://data.gov.tw)
