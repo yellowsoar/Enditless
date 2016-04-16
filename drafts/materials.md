@@ -576,12 +576,14 @@ chliju & Supaplex
 ### 誤刪死巷
 1. [https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
 
-### 待查核校驗內容
-1.  
+### 內容待修正
+1. 誤用與錯字  
 [https://www.openstreetmap.org/changeset/38421224](https://www.openstreetmap.org/changeset/38421224)
+1. 誤用標籤與不恰當內容
+[http://www.openstreetmap.org/changeset/38612023](http://www.openstreetmap.org/changeset/38612023)
 
 ---
 
 # 不確定是否要收錄
-1. 住宅大樓都更  
+1. 住宅大樓都更的編輯  
 [https://www.openstreetmap.org/changeset/38475114](https://www.openstreetmap.org/changeset/38475114)
