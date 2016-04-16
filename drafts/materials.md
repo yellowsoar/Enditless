@@ -1,4 +1,6 @@
 # 尚未歸類
+1. HOT OSM Export Tool  
+[http://export.hotosm.org/en/exports/](http://export.hotosm.org/en/exports/)
 1. 中文名稱標籤方式  
 [https://lists.openstreetmap.org/pipermail/talk-tw/2016-April/001283.html](https://lists.openstreetmap.org/pipermail/talk-tw/2016-April/001283.html)
 1. 開放政府資料的基本原則與相關政策議題  
