@@ -1,3 +1,20 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [民間組織](#民間組織)
+- [中華民國政府的「資料開放」](#中華民國政府的資料開放)
+	- [政府資料開放平臺](#政府資料開放平臺)
+	- [中央部會](#中央部會)
+	- [地方政府](#地方政府)
+	- [政府相關組織](#政府相關組織)
+	- [有頁面但資料不明](#有頁面但資料不明)
+	- [「資料開放」授權](#資料開放授權)
+- [外國政府](#外國政府)
+- [外國非政府組織](#外國非政府組織)
+
+<!-- /TOC -->
+
+---
+
 # 民間組織
 1. sheethub
 [https://sheethub.com](https://sheethub.com)
@@ -6,7 +23,7 @@
 
 ---
 
-# 中華民國「資料開放」平台
+# 中華民國政府的「資料開放」
 1. 財團法人台灣地理資訊中心 開放地圖搜尋下載  
 [http://www.tgic.org.tw/content/OpenMap.aspx](http://www.tgic.org.tw/content/OpenMap.aspx)
 
@@ -21,6 +38,8 @@ by 國家發展委員會
 [http://www.moeasmea.gov.tw/ct.asp?xItem=13242&CtNode=1116&mp=1](http://www.moeasmea.gov.tw/ct.asp?xItem=13242&CtNode=1116&mp=1)
 1. 中央銀行  
 [http://www.cbc.gov.tw/lp.asp?CtNode=1032&CtUnit=571&BaseDSD=7&mp=1](http://www.cbc.gov.tw/lp.asp?CtNode=1032&CtUnit=571&BaseDSD=7&mp=1)
+1. 交通部臺灣區國道高速公路局  
+[https://www.freeway.gov.tw/Publish.aspx?cnid=2039](https://www.freeway.gov.tw/Publish.aspx?cnid=2039)
 
 ## 中央部會
 1. 政府資料開放(OPEN DATA) by 國家發展委員會  
@@ -73,7 +92,8 @@ by 國家發展委員會
 1. 金門縣政府資料開放平台  
 [http://data.kinmen.gov.tw](http://data.kinmen.gov.tw)
 1. 臺北市政府資料開放平台  
-[http://data.taipei](http://data.taipei)
+[http://data.taipei](http://data.taipei)  
+[https://github.com/taipeicity](https://github.com/taipeicity)
 1. 新北市政府資料開放平台  
 [http://data.ntpc.gov.tw](http://data.ntpc.gov.tw)
 1. 宜蘭縣政府資料資料平台  
@@ -112,3 +132,27 @@ by 國家發展委員會
 [http://www.mofa.gov.tw/News_M_2.aspx?n=A30D6E978846B3C0&sms=BA727B25FD99C6CC](http://www.mofa.gov.tw/News_M_2.aspx?n=A30D6E978846B3C0&sms=BA727B25FD99C6CC)
 1. 勞動部勞動力發展署  
 [http://www.labor.gov.tw/home.jsp?pageno=201109290051](http://www.labor.gov.tw/home.jsp?pageno=201109290051)
+1. 行政院大陸委員會  
+[http://www.mac.gov.tw/lp.asp?ctNode=7897&CtUnit=5298&BaseDSD=7&mp=1](http://www.mac.gov.tw/lp.asp?ctNode=7897&CtUnit=5298&BaseDSD=7&mp=1)
+1. 苗栗縣政府消防局  
+[http://www.mlfd.gov.tw/sitemap/information.aspx](http://www.mlfd.gov.tw/sitemap/information.aspx)  
+[http://www.mlfd.gov.tw/chinese/ch08.aspx?gp=1&cp=5](http://www.mlfd.gov.tw/chinese/ch08.aspx?gp=1&cp=5)  
+1. 臺北市立美術館  
+[http://www.tfam.museum/Common/Page.aspx?m=4&ddlLang=zh-tw](http://www.tfam.museum/Common/Page.aspx?m=4&ddlLang=zh-tw)  
+1. 科技部  
+[https://www.most.gov.tw/folksonomy/list?subSite=&l=ch&menu_id=f6f4f0d5-9489-49dd-859e-ba0c8d375eb8&view_mode=listView](https://www.most.gov.tw/folksonomy/list?subSite=&l=ch&menu_id=f6f4f0d5-9489-49dd-859e-ba0c8d375eb8&view_mode=listView)  
+
+## 「資料開放」授權
+1. 教育部體育署  
+[http://www.sa.gov.tw/wSite/ct?xItem=16329&ctNode=2392&mp=11](http://www.sa.gov.tw/wSite/ct?xItem=16329&ctNode=2392&mp=11)
+1. 臺北旅遊網  
+by 臺北市政府觀光傳播局  
+[http://www.taipeitravel.net:8080/frontsite/tw/cms/cmsAction.do;jsessionid=3A8335757FDBE20C7532AAD337ACF991?method=goCMSDetail&listOne=true&contentId=3819&menuId=20129](http://www.taipeitravel.net:8080/frontsite/tw/cms/cmsAction.do;jsessionid=3A8335757FDBE20C7532AAD337ACF991?method=goCMSDetail&listOne=true&contentId=3819&menuId=20129)
+
+---
+
+# 外國政府
+
+---
+
+# 外國非政府組織
