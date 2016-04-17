@@ -548,9 +548,11 @@ ISBN:9789860117424
 
 # 已歸類
 ## 新手會犯的錯誤
-1. 20160412 學校標籤不適用建築標示  
-	LeoWangWang & Supaplex  
-[https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)
+### 誤用標籤
+1. 錯誤：building=school；正確：amenity=school    
+[https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)  
+[https://www.openstreetmap.org/way/149992016/history](https://www.openstreetmap.org/way/149992016/history)  
+
 
 ## 這個可以畫嗎?
 1. 20160410 通往地下停車場的道路  
@@ -577,9 +579,9 @@ chliju & Supaplex
 1. [https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
 
 ### 內容待修正
-1. 誤用與錯字  
+1. 誤用標籤與不適標註  
 [https://www.openstreetmap.org/changeset/38421224](https://www.openstreetmap.org/changeset/38421224)
-1. 誤用標籤與不恰當內容
+1. 誤用標籤與不適標註  
 [http://www.openstreetmap.org/changeset/38612023](http://www.openstreetmap.org/changeset/38612023)
 
 ---
