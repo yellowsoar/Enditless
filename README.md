@@ -33,7 +33,22 @@ imgur？
 或是轉移至 Open Street Map Taiwan  
 [https://www.gitbook.com/@osm-tw](https://www.gitbook.com/@osm-tw)  
 
+GitBook 技術手冊：  
+[https://help.gitbook.com](https://help.gitbook.com)
+
 ## 版本控制：git
+### 安裝
+1. 官方下載  
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+1. 官方說明  
+[https://git-scm.com/book/en/v1/Getting-Started-Installing-Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
+1. Windows  
+[https://git-for-windows.github.io](https://git-for-windows.github.io)
+1. Mac（建議採用 `brew` 安裝)  
+[https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac)  
+1. Linux Ubuntu 系  
+想不到為什麼要寫...囧  
+
 ### 學習資源
 1. ProGit 2nd Edition (2014)  
 [https://git-scm.com/book/en/v2/](https://git-scm.com/book/en/v2/)  
@@ -87,5 +102,3 @@ imgur？
 
 ## 事件追蹤
 待補
-
-20160418
