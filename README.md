@@ -89,12 +89,9 @@ GitBook 技術手冊：
 文內超連結樣式：
 ```
 舉「[OSM.TW][]：」當例子來說
-[OSM.TW]:http://www.openstreetmap.tw "臺灣 OpenStreetMap 社群網站"
+[OSM.TW]: http://www.openstreetmap.tw "臺灣 OpenStreetMap 社群網站"
 ```
-
-舉「[OSM.TW][]：」當例子來說
-[OSM.TW]: http://www.openstreetmap.tw "臺灣
- OpenStreetMap 社群網站"
+連結的定義置於出現的段落之後。
 
 ## 這可以納進來嗎？
 如果遇到不知道可不可以納進來的內容，
