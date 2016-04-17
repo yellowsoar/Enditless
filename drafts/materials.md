@@ -563,27 +563,6 @@ chliju & Supaplex
 1. 20160410 南港車站B棟的旅館
 [https://www.openstreetmap.org/changeset/38452593](https://www.openstreetmap.org/changeset/38452593)
 
-## maps.me 可以新增 POI 後引發的編輯潮
-### 地方圖資更新
-1. 淡水祖師廟戲台玉皇壇拆除  
-20160218新聞，20160408修正圖資  
-[https://www.openstreetmap.org/changeset/38411018](https://www.openstreetmap.org/changeset/38411018)
-1. 漁港與夜市  
-[https://www.openstreetmap.org/changeset/38403398](https://www.openstreetmap.org/changeset/38403398)
-
-### 重複標註
-1. [https://www.openstreetmap.org/changeset/38451386](https://www.openstreetmap.org/changeset/38451386)
-1. [https://www.openstreetmap.org/changeset/38354608](https://www.openstreetmap.org/changeset/38354608)
-
-### 誤刪死巷
-1. [https://www.openstreetmap.org/changeset/38453619](https://www.openstreetmap.org/changeset/38453619)
-
-### 內容待修正
-1. 誤用標籤與不適標註  
-[https://www.openstreetmap.org/changeset/38421224](https://www.openstreetmap.org/changeset/38421224)
-1. 誤用標籤與不適標註  
-[http://www.openstreetmap.org/changeset/38612023](http://www.openstreetmap.org/changeset/38612023)
-
 ---
 
 # 不確定是否要收錄
