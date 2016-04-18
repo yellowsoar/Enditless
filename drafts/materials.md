@@ -1,4 +1,15 @@
 # 尚未歸類
+1. TaiwanOnly Presets  
+[https://github.com/OsmHackTW/josm-presets](https://github.com/OsmHackTW/josm-presets)  
+1. OSM Hiking Presets  
+[https://github.com/OsmHackTW/hiking_presets](https://github.com/OsmHackTW/hiking_presets)  
+1. OSM Hiking tags (by K.C.Wu)  
+[https://docs.google.com/document/d/1YSVua0Th0SnswhlSytddLEZazVaSK1gx0w3ojYfBkrQ/edit](https://docs.google.com/document/d/1YSVua0Th0SnswhlSytddLEZazVaSK1gx0w3ojYfBkrQ/edit)  
+1. 地圖聊天小站  
+臉書社團  
+[https://www.facebook.com/groups/305309369629981/](https://www.facebook.com/groups/305309369629981/)  
+1. 地圖告解室  
+[https://g0v.hackpad.com/-Mapfessional-EJfaf9C5gaT](https://g0v.hackpad.com/-Mapfessional-EJfaf9C5gaT)  
 1. Open Data Workshop at TW  
 [http://odw.tw/](http://odw.tw/)  
 1. 歐洲環境署及英國政府環境資料管理制度及操作模式  
