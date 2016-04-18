@@ -1,4 +1,36 @@
 # 尚未歸類
+1. 國家治理進程中的政府大數據開放利用研究  
+[http://www.cctb.net/llyj/xswtyj/zfcx/201604/t20160414_340102.htm](http://www.cctb.net/llyj/xswtyj/zfcx/201604/t20160414_340102.htm)  
+1. 新自由主義下開放（政府）資料與商品化的困境分析  
+世新大學 黃昭謀  
+[http://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/viewFile/650/pdf](http://jlis.glis.ntnu.edu.tw/ojs/index.php/jlis/article/viewFile/650/pdf)  
+1. 高階文官培訓飛躍方案 103 年訓練  
+決策發展訓練國外研習成果報告  
+(搜尋關鍵字開放)  
+[http://www.csptc.gov.tw/FileUpload/843-8782%5CDocuments/1015%E5%87%BA%E5%9C%8B%E5%A0%B1%E5%91%8A1125%E4%BF%AE.pdf](http://www.csptc.gov.tw/FileUpload/843-8782%5CDocuments/1015%E5%87%BA%E5%9C%8B%E5%A0%B1%E5%91%8A1125%E4%BF%AE.pdf)  
+1. Open Data運用於農業發展之作法與展望  
+[https://agtech.coa.gov.tw/content/f_topic/topic_content.aspx?id=46](https://agtech.coa.gov.tw/content/f_topic/topic_content.aspx?id=46)  
+1. 2020 年台灣電子治理願景與方向：情境規劃的應用  
+[http://nccur.lib.nccu.edu.tw/retrieve/132973/09640D002503.pdf](http://nccur.lib.nccu.edu.tw/retrieve/132973/09640D002503.pdf)  
+1. 主要國家「政府開放資料」（Open Government Data）機制與作法追蹤觀察報告（二）—英國  
+[http://opendata.tca.org.tw/spaw2/uploads/images/Open%20Government%20Data%202014/2014Open%20Government%20Data-U.K..pdf](http://opendata.tca.org.tw/spaw2/uploads/images/Open%20Government%20Data%202014/2014Open%20Government%20Data-U.K..pdf)  
+1. 國發會的「研究及報導」頁面  
+一堆報告  
+[http://www.ndc.gov.tw/News.aspx?n=33B27A62D5D08C83&sms=90CFF1BDB7A1494C](http://www.ndc.gov.tw/News.aspx?n=33B27A62D5D08C83&sms=90CFF1BDB7A1494C)  
+1. 東華大學 羅晉 的基本資料  
+第六大項的報告們  
+[http://134.208.10.216:8080/PDF_FILES/5644.pdf](http://134.208.10.216:8080/PDF_FILES/5644.pdf)  
+1. 電子治理研究中心  
+一堆報告
+[http://www.teg.org.tw/web_zh/research/treeview.do?id=13a2c11a86a000005b66](http://www.teg.org.tw/web_zh/research/treeview.do?id=13a2c11a86a000005b66)  
+1. 開放資料及其對政府治理與個人隱私影響之研究  
+[http://www.teg.org.tw/web_zh/research/view.do?id=1399608202705](http://www.teg.org.tw/web_zh/research/view.do?id=1399608202705)  
+1. 防救災開放資料之應用  
+2014 朱宗賢 at 2014 開放資料工作坊  
+[https://www.openfoundry.org/of/download/openlegal/Open_Data_Workshop_2014/odw2014-07.pdf](https://www.openfoundry.org/of/download/openlegal/Open_Data_Workshop_2014/odw2014-07.pdf)  
+1. Post Box Finder  
+[http://dracos.co.uk/made/nearest-postbox/](http://dracos.co.uk/made/nearest-postbox/)
+[https://data.gov.uk/apps/post-box-finder-0](https://data.gov.uk/apps/post-box-finder-0)  
 1. Gold Postbox Finder  
 簡介：  
 展示英國境內金色郵筒的位置，  
