@@ -1,4 +1,6 @@
 # 尚未歸類
+1. 歐洲環境署及英國政府環境資料管理制度及操作模式  
+[http://report.nat.gov.tw/ReportFront/report_detail.jspx?sysId=C10404820](http://report.nat.gov.tw/ReportFront/report_detail.jspx?sysId=C10404820)  
 1. 國家治理進程中的政府大數據開放利用研究  
 [http://www.cctb.net/llyj/xswtyj/zfcx/201604/t20160414_340102.htm](http://www.cctb.net/llyj/xswtyj/zfcx/201604/t20160414_340102.htm)  
 1. 新自由主義下開放（政府）資料與商品化的困境分析  
