@@ -21,6 +21,10 @@
 1. easytraffic
 [http://www.easytraffic.com.tw](http://www.easytraffic.com.tw)
 
+## 授權不明
+1. 財金資訊股份有限公司  
+[https://www.fisc.com.tw/tc/knowledge/opendata.aspx](https://www.fisc.com.tw/tc/knowledge/opendata.aspx)  
+
 ---
 
 # 中華民國政府的「資料開放」
