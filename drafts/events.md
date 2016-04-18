@@ -1,4 +1,10 @@
-
+# 東華大學 志學街薪資地圖
+1. 20160312 V1.0  
+[https://www.facebook.com/ndhulabourmovement/photos/pcb.1958552911037024/1958551587703823/?type=3&theater](https://www.facebook.com/ndhulabourmovement/photos/pcb.1958552911037024/1958551587703823/?type=3&theater)  
+![](https://scontent.xx.fbcdn.net/hphotos-xfa1/t31.0-8/12828339_1958551587703823_17994223031869988_o.jpg)  
+1. 20160410 V2.0  
+[https://www.facebook.com/ndhulabourmovement/photos/a.1897422493816733.1073741827.1897289117163404/1983490261876622/?type=3&theater](https://www.facebook.com/ndhulabourmovement/photos/a.1897422493816733.1073741827.1897289117163404/1983490261876622/?type=3&theater)
+![](https://scontent.xx.fbcdn.net/hphotos-xtf1/t31.0-8/13055802_1983490261876622_3632872165488201134_o.jpg)
 
 ---
 
