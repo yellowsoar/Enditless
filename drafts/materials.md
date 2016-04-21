@@ -1,4 +1,16 @@
 # 尚未歸類
+1. 為什麼希望人們去讀 OSM Wiki？  
+因為以「創造一個自由的地圖資訊平台」的 OSM 才是主體。  
+舉個例子：  
+在「飲水地圖」專案裡，回報「飲水點」資料的方式有兩種，其中一種是讓願意提供飲用水的店家或組織填寫線上表單，而在這個表單中有一個簡介欄位，對應到 OSM tag 則是 `description`，結果有人在回報的時候填了三百字的內容，可是實際上 `description` 應該盡可能精簡最好只有幾個字或兩三句。
+參考：  
+OSM Wiki description 條目  
+[https://wiki.openstreetmap.org/wiki/Key:description](https://wiki.openstreetmap.org/wiki/Key:description)  
+
+1. 停車場收費金額標示  
+[https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1038247076240761/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1038247076240761/)  
+charge=* or fee:amount=* or fee:price=*  
+[https://wiki.openstreetmap.org/wiki/Key:charge](https://wiki.openstreetmap.org/wiki/Key:charge)  
 1. 斗六的家  
 [http://www.openstreetmap.org/node/3382103855](http://www.openstreetmap.org/node/3382103855)  
 1. OpenStreetMap 媒體曝光  
