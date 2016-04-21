@@ -1,4 +1,28 @@
 # 尚未歸類
+1. OpenStreetMap 媒體曝光  
+[https://wiki.openstreetmap.org/wiki/OpenStreetMap_in_the_media](https://wiki.openstreetmap.org/wiki/OpenStreetMap_in_the_media)  
+1. 水患自主防災社區資訊系統  
+[http://140.112.76.195/CVD](http://140.112.76.195/CVD)  
+1. 災害環境調查暨災害經驗學習網絡  
+[http://www.ncdr.nat.gov.tw/R_D_Content.aspx?WebSiteID=5853983c-7a45-4c1c-9093-f62cb7458282&id=4&subid=29&ItemID=12](http://www.ncdr.nat.gov.tw/R_D_Content.aspx?WebSiteID=5853983c-7a45-4c1c-9093-f62cb7458282&id=4&subid=29&ItemID=12)  
+	1.	2015年蘇迪勒颱風災害調查彙整報告，NCDR 104-T15。  
+	1.	災害潛勢圖資說明手冊，NCDR 104-M01。  
+	1.	103 年易致災環境指標調查與評估(Ⅱ)，NCDR 103-T29。  
+		[http://astdr.colife.org.tw/file_download.aspx?auto_id=1098&pid=375](http://astdr.colife.org.tw/file_download.aspx?auto_id=1098&pid=375)
+	1.	2013天然災害紀實，NCDR 102B04。  
+	1.	102年易致災環境指標調查與評估（I），NCDR 102-T09。  
+	1.	2013年臺灣災害調查報告，NCDR 102-T10。  
+	1.	歷史災害事件簿之建立，NCDR 102-T11。  
+
+1. e-GNSS 103年年終營運報告  
+[http://www.egnss.nlsc.gov.tw/_upload/page_content/20150625113850767/103年年終營運報告.pdf](http://www.egnss.nlsc.gov.tw/_upload/page_content/20150625113850767/103年年終營運報告.pdf)  
+
+1. historic=castle  
+[http://www.openstreetmap.org/changeset/38612023](http://www.openstreetmap.org/changeset/38612023)
+[http://www.openstreetmap.org/node/4125124789/history](http://www.openstreetmap.org/node/4125124789/history)  
+[http://www.openstreetmap.org/node/4125124790/history](http://www.openstreetmap.org/node/4125124790/history)  
+1. 學校範圍不是用建築  
+[https://www.openstreetmap.org/changeset/38489888](https://www.openstreetmap.org/changeset/38489888)  
 1. TaiwanOnly Presets  
 [https://github.com/OsmHackTW/josm-presets](https://github.com/OsmHackTW/josm-presets)  
 1. OSM Hiking Presets  
