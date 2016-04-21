@@ -1,4 +1,10 @@
 # 尚未歸類
+1.
+翟本喬在 TEDxTaipei 描述 Yochai Benkler 的 [The Wealth of Networks][] 一書內容：「如果知識的創造與傳播是免費的，那對整體社會國家甚至社會的貢獻會遠大於用專利或版權來保護它」
+[The Wealth of Networks]: https://en.wikipedia.org/wiki/The_Wealth_of_Networks WikiPedia 條目
+
+1. 淡蘭百年山徑 by 台灣千里步道協會  
+[http://www.tmitrail.org.tw/tamsui-kavalan/](http://www.tmitrail.org.tw/tamsui-kavalan/)  
 1. 為什麼希望人們去讀 OSM Wiki？  
 因為以「創造一個自由的地圖資訊平台」的 OSM 才是主體。  
 舉個例子：  
