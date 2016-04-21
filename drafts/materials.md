@@ -7,6 +7,12 @@
 OSM Wiki description 條目  
 [https://wiki.openstreetmap.org/wiki/Key:description](https://wiki.openstreetmap.org/wiki/Key:description)  
 
+1. 災害潛勢地圖網站  
+國家災害防救科技中心  
+[http://satis.ncdr.nat.gov.tw/Dmap/gis/default.aspx](http://satis.ncdr.nat.gov.tw/Dmap/gis/default.aspx)  
+1. 嘉義市簡易避難疏散地圖  
+by 雲林科技大學 水土資源及防災科技研究中心  
+[http://140.125.234.38/refuge/](http://140.125.234.38/refuge/)  
 1. 停車場收費金額標示  
 [https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1038247076240761/](https://www.facebook.com/groups/OpenStreetMap.TW/permalink/1038247076240761/)  
 charge=* or fee:amount=* or fee:price=*  
