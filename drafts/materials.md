@@ -3,6 +3,10 @@
 翟本喬在 TEDxTaipei 描述 Yochai Benkler 的 [The Wealth of Networks][] 一書內容：「如果知識的創造與傳播是免費的，那對整體社會國家甚至社會的貢獻會遠大於用專利或版權來保護它」
 [The Wealth of Networks]: https://en.wikipedia.org/wiki/The_Wealth_of_Networks WikiPedia 條目
 
+1. Offline OpenStreetMap  
+[https://wiki.openstreetmap.org/wiki/Offline_Openstreetmap](https://wiki.openstreetmap.org/wiki/Offline_Openstreetmap)  
+1. Application of OpenStreetMap  
+[https://wiki.openstreetmap.org/wiki/Applications_of_OpenStreetMap](https://wiki.openstreetmap.org/wiki/Applications_of_OpenStreetMap)  
 1. 淡蘭百年山徑 by 台灣千里步道協會  
 [http://www.tmitrail.org.tw/tamsui-kavalan/](http://www.tmitrail.org.tw/tamsui-kavalan/)  
 1. 為什麼希望人們去讀 OSM Wiki？  
