@@ -1,2 +1,3 @@
 # OSM Wiki
-開放街圖維基百科，是「編輯開放街圖」的技術文件。
+開放街圖維基百科，是「編輯開放街圖」的技術文件。  
+[https://wiki.openstreetmap.org/](https://wiki.openstreetmap.org/)  
