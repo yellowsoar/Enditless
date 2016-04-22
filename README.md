@@ -34,7 +34,7 @@ imgur？
 [https://www.gitbook.com/@osm-tw](https://www.gitbook.com/@osm-tw)  
 
 GitBook 技術手冊：  
-[https://help.gitbook.com](https://help.gitbook.com)
+[https://help.gitbook.com](https://help.gitbook.com)  
 
 ## 版本控制：git
 ### 安裝
@@ -109,3 +109,7 @@ GitBook 技術手冊：
 
 ## 事件追蹤
 待補
+
+## Todos
+1. 書封  
+參考:[https://help.gitbook.com/format/cover.html](https://help.gitbook.com/format/cover.html)  
