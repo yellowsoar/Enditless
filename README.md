@@ -66,29 +66,48 @@ GitBook 技術手冊：
 
 # 協作的五四三
 ## Markdown 格式統一
-標題樣式：  
+### 標題樣式
 ```
 # H1
 ## H2
 ### H3
 ```
+### 清單樣式
+1. 項目一
+1. 項目二
+1. 項目三
 
-清單樣式：  
 ```
 1. 項目一
 1. 項目二
 1. 項目三
 ```
 
-超連結樣式：  
+### 超連結
+臺灣 OpenStreetMap 社群網站：
+<https://www.openstreetmap.tw>
+
 ```
 臺灣 OpenStreetMap 社群網站：
-[https://www.openstreetmap.tw](https://www.openstreetmap.tw)
+<https://www.openstreetmap.tw>
 ```
 
-文內超連結樣式：
+### 內文超連結
+舉「[OSM.TW][]」當例子來說
+[OSM.TW]: http://www.openstreetmap.tw "臺灣 OpenStreetMap 社群網站"
+
 ```
-舉「[OSM.TW][]：」當例子來說
+舉「[OSM.TW][]」當例子來說
+[OSM.TW]: http://www.openstreetmap.tw "臺灣 OpenStreetMap 社群網站"
+```
+連結的定義置於出現的段落之後。
+
+### 引用超連結
+舉「OSM.TW [1]」當例子來說
+[1]: http://www.openstreetmap.tw "臺灣 OpenStreetMap 社群網站"
+
+```
+舉「OSM.TW [1]：」當例子來說
 [OSM.TW]: http://www.openstreetmap.tw "臺灣 OpenStreetMap 社群網站"
 ```
 連結的定義置於出現的段落之後。
