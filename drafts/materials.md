@@ -3,6 +3,26 @@
 翟本喬在 TEDxTaipei 描述 Yochai Benkler 的 [The Wealth of Networks][] 一書內容：「如果知識的創造與傳播是免費的，那對整體社會國家甚至社會的貢獻會遠大於用專利或版權來保護它」
 [The Wealth of Networks]: https://en.wikipedia.org/wiki/The_Wealth_of_Networks WikiPedia 條目
 
+## 未解決就關閉 Note
+1. [http://www.openstreetmap.org/note/534317](http://www.openstreetmap.org/note/534317)  
+1. [http://www.openstreetmap.org/note/534314](http://www.openstreetmap.org/note/534314)  
+1. [http://www.openstreetmap.org/note/534313](http://www.openstreetmap.org/note/534313)  
+1. [http://www.openstreetmap.org/note/534325](http://www.openstreetmap.org/note/534325)  
+
+## 內容逐漸完善
+1. [http://www.openstreetmap.org/node/4083158465/history](http://www.openstreetmap.org/node/4083158465/history)  
+1. 編輯完地圖忘了處理 Note  
+[http://www.openstreetmap.org/note/534309](http://www.openstreetmap.org/note/534309)  
+1. 俄國圖客解決無效 note  
+[http://www.openstreetmap.org/note/533873](http://www.openstreetmap.org/note/533873)  
+
+1. 中华人民共和国
+[http://www.openstreetmap.org/note/522268](http://www.openstreetmap.org/note/522268)  
+1. 我家  
+[http://www.openstreetmap.org/note/498602](http://www.openstreetmap.org/note/498602)  
+
+1. 景美商店街  
+[http://www.openstreetmap.org/#map=18/24.99149/121.54102](http://www.openstreetmap.org/#map=18/24.99149/121.54102)  
 1. Offline OpenStreetMap  
 [https://wiki.openstreetmap.org/wiki/Offline_Openstreetmap](https://wiki.openstreetmap.org/wiki/Offline_Openstreetmap)  
 1. Application of OpenStreetMap  
